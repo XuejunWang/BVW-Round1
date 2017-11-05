@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 9aa8e5bb7cfd6e94fa99c5277cb538d6
+timeCreated: 1505093796
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: down
+    100004: downlid_l
+    100006: downlid_r
+    100008: ear_l
+    100010: ear_r
+    100012: joint10
+    100014: joint13
+    100016: joint14
+    100018: joint17
+    100020: joint18
+    100022: joint21
+    100024: joint23
+    100026: joint28
+    100028: joint29
+    100030: joint30
+    100032: joint4
+    100034: joint5
+    100036: joint7
+    100038: joint8
+    100040: lefteyelid
+    100042: leg_l
+    100044: leg_r
+    100046: main
+    100048: middle
+    100050: pasted__pasted__pSphere5
+    100052: pasted__pasted__pSphere6
+    100054: pasted__pSphere5
+    100056: pasted__pSphere6
+    100058: pSphere4
+    100060: pSphere5
+    100062: pSphere6
+    100064: righteyelid
+    100066: tail
+    100068: up
+    100070: uplid_l
+    100072: uplid_r
+    100074: wing_l
+    100076: wing_r
+    400000: //RootNode
+    400002: down
+    400004: downlid_l
+    400006: downlid_r
+    400008: ear_l
+    400010: ear_r
+    400012: joint10
+    400014: joint13
+    400016: joint14
+    400018: joint17
+    400020: joint18
+    400022: joint21
+    400024: joint23
+    400026: joint28
+    400028: joint29
+    400030: joint30
+    400032: joint4
+    400034: joint5
+    400036: joint7
+    400038: joint8
+    400040: lefteyelid
+    400042: leg_l
+    400044: leg_r
+    400046: main
+    400048: middle
+    400050: pasted__pasted__pSphere5
+    400052: pasted__pasted__pSphere6
+    400054: pasted__pSphere5
+    400056: pasted__pSphere6
+    400058: pSphere4
+    400060: pSphere5
+    400062: pSphere6
+    400064: righteyelid
+    400066: tail
+    400068: up
+    400070: uplid_l
+    400072: uplid_r
+    400074: wing_l
+    400076: wing_r
+    4300000: pSphere4
+    4300002: pSphere5
+    4300004: pSphere6
+    4300006: pasted__pasted__pSphere5
+    4300008: pasted__pSphere5
+    4300010: pasted__pasted__pSphere6
+    4300012: pasted__pSphere6
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pasted__pasted__pSphere5
+    13700002: pasted__pasted__pSphere6
+    13700004: pasted__pSphere5
+    13700006: pasted__pSphere6
+    13700008: pSphere4
+    13700010: pSphere5
+    13700012: pSphere6
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
